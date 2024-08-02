@@ -18,7 +18,7 @@ This project utilizes the OpenAI API to extract company data and connect to a SQ
     "username": "your_encrypted_username",
     "password": "your_encrypted_password"
 }
-
+```
 ## Excel Sheets
 
 - **Client_name_TAM_mapping.xlsx:** Contains columns for `Name_of_Group_code_for_Advertiser_Latest` and `Tam Client Name`.

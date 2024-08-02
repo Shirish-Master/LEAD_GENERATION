@@ -36,6 +36,5 @@ Run the main script to start extracting data.
 
 ## License
 
--
-This version includes mentions of the two additional Excel sheets and maintains a simple and clear format. Adjust any specific details as necessary.
+-This version includes mentions of the two additional Excel sheets and maintains a simple and clear format. Adjust any specific details as necessary.
 
